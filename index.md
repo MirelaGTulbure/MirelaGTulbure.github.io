@@ -1,7 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to my blog, where I will document my Deep Learning journey, with particular applications for computer vision tasks on Earth Observation (EO) data.
 
-![Image of fast.ai logo](images/logo.png)
+I have decided to start reading and going through the freely available course materials from Fast.ai [Practical Deep Learning for Coders](https://course.fast.ai/). This course uses the **fast.ai** framework and *Pytorch*.
 
-## This is a title
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
